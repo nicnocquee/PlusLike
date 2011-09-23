@@ -11,7 +11,7 @@ I tried to. But apparently Google Checkout sucks. You see, I was asked to pay $5
 Check out the 4th step of **Create and load extension** section in the [Chrome Extenstion's Get Started](http://code.google.com/chrome/extensions/getstarted.html) page.
 
 ## Your code's ugly!
-I know! It's my first time writing Chrome extension, so please spare me.
+I know! It's my first time writing Chrome extension, so please spare me. I'd greatly appreciate if you can help me write better code :)
 
 ## It doesn't work!
 Sorry for you, but I didn't test this extension anywhere else but my machine and it works! I did this just for fun! FYI, I'm using Chrome browser version 14.0.835.163 in Mac OS X Lion version 10.7.1.
