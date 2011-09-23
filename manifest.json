@@ -1,0 +1,16 @@
+{
+  "name": "+Like",
+  "version": "1.0.0",
+  "description": "Add Facebook Like Button to Google+ posts.",
+  "icons": {
+  	"16" : "Plus-Like-16px.png",
+    "48" : "Plus-Like-48px.png",
+    "128" : "Plus-Like-128px.png"
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://plus.google.com/*"],
+      "js" : ["contentscript.js"]
+    }
+  ]
+}
